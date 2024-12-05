@@ -24,6 +24,4 @@ Note: There is a bug in 'COSMIC_WACCM_Plotting-FINAL_CRITERIA_0.25sigma_2xMpza_1
 
 TODO:
 
-Run solar min and max runs that Tasha processed.
-
-Run SpE_Id with a batch job (memory error).
+Run SpE_Id with a batch job, memory error fixed. Still issues with code.
