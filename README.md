@@ -18,7 +18,7 @@ Note: There is a bug in 'COSMIC_WACCM_Plotting-FINAL_CRITERIA_0.25sigma_2xMpza_1
 
 TODO:
 
-Plot all of the climate change runs to compare against Tasha's
+Plot all of the climate change runs to compare against Tasha's (Normalize number of occurances)
 
 Compare the chemical differences in the climate chnage runs against Tasha's
 
