@@ -25,3 +25,5 @@ Compare the chemical differences in the climate chnage runs against Tasha's
 Compare the winds in the climate change runs and Tasha's
 
 Could be interesting to look at polar pltos?
+
+Look at tempereture diffrence at different heights.
