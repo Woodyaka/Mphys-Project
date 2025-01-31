@@ -23,3 +23,5 @@ Plot all of the climate change runs to compare against Tasha's (Normalize number
 Compare the chemical differences in the climate chnage runs against Tasha's
 
 Compare the winds in the climate change runs and Tasha's
+
+Could be interesting to look at polar pltos?
